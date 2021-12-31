@@ -64,8 +64,8 @@
 
 ### My Contributions :
 <a href="https://github.com/Code-With-Arif">
-  <img src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/Code-With-Arif">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-2005&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-2005&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
