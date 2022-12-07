@@ -6,6 +6,8 @@
 Welcome to my github profile. Let me intreduce myself. I am a 👨🏻‍🎓science student, 💻programmer, 👨🏻‍💻developer. I am a full-stack web, MERN, MEAN stack developer. I have been 💻coding since year 2020, in the 🦠🦠COVID pandemic. All-though it was a very critical situation, but it helps me enough by giving lot of free time to improve myself, that till now I have created lots of projects, softwares, 🎮games, websites, portfollio etc. And now I have trained my self enough that I can 👨🏻‍🏫teach an absolute beginner to a level where he atleast can create his own softwares.
 </h4>
 
+<a href="https://app.daily.dev/CodeBeast"><img src="./devcard.svg" width="256" align="right" alt="Arif Sardar's Dev Card"/></a>
+
 ### Follow Me On
 <a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Code_With_Arif?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
