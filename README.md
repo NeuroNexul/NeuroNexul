@@ -86,11 +86,11 @@ src="https://img.shields.io/twitter/follow/Code_With_Arif?logo=twitter&style=for
   <br />
   
   <a href="https://github.com/Code-With-Arif" align="center">
-    <img style="" src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img style="" src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="49%" />
   </a>
   
   <a href="https://github.com/Code-With-Arif" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-2005&stroke=ffffff&background=151515&ring=79ff97&fire=79ff97&currStreakNum=ffffff&currStreakLabel=79ff97&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-2005&stroke=ffffff&background=151515&ring=79ff97&fire=79ff97&currStreakNum=ffffff&currStreakLabel=79ff97&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="49%" />
   </a>
   
 </p>
