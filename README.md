@@ -1,17 +1,39 @@
 <img src="https://github.com/Code-With-Arif/Code-With-Arif/blob/main/github_banner.jpg?raw=true" style="width: 100%" />
+<p align="center">
+	<a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer">
+		<img
+			 alt="twitter"
+			src="https://img.shields.io/twitter/follow/Code_With_Arif?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+		/>
+	</a>
+	<a href="https://www.facebook.com/arifsardar.private" target="_blank" rel="noreferrer">
+        <img
+            alt="facebook"
+            src="https://img.shields.io/badge/FOLLOW%20ON-FACEBOOK-ON?style=for-the-badge&logo=facebook&logoColor=white&color=3382ed&labelColor=1c1917"
+        />
+    </a>
+    <a href="https://t.me/CodeWithArif" target="_blank" rel="noreferrer">
+        <img
+            alt="telegram"
+            src="https://img.shields.io/badge/JOIN-TELEGRAM-ON?style=for-the-badge&logo=telegram&logoColor=white&color=27a7e8&labelColor=1c1917"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/arif-sardar-private/" target="_blank" rel="noreferrer">
+        <img
+            alt="linkedin"
+            src="https://img.shields.io/badge/FOLLOW%20ON-LINKEDIN-ON?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2&labelColor=1c1917"
+        />
+    </a>
+</p>
 
 # Hello Visitors!
 
 <p align="justify">
-Welcome to my github profile. Let me intreduce myself. I am a 👨🏻‍🎓science student, 💻programmer, 👨🏻‍💻developer. I am a full-stack web, MERN, MEAN stack developer. I have been 💻coding since year 2020, in the 🦠🦠COVID pandemic. All-though it was a very critical situation, but it helps me enough by giving lot of free time to improve myself, that till now I have created lots of projects, softwares, 🎮games, websites, portfollio etc. And now I have trained my self enough that I can 👨🏻‍🏫teach an absolute beginner to a level where he atleast can create his own softwares.
+	Welcome to my github profile. Let me intreduce myself. I am a 👨🏻‍🎓science student, 💻programmer, 👨🏻‍💻developer. I am a full-stack web, MERN, MEAN stack developer. I have been 💻coding since year 2020, in the 🦠🦠COVID pandemic. All-though it was a very critical situation, but it helps me enough by giving lot of free time to improve myself, that till now I have created lots of projects, softwares, 🎮games, websites, portfollio etc. And now I have trained my self enough that I can 👨🏻‍🏫teach an absolute beginner to a level where he atleast can create his own softwares.
 </p>
 
-### Follow Me On
-<a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Code_With_Arif?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a>
-
 <div align="center">
+	<h2>MY TECH STACKS</h2>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
@@ -59,15 +81,16 @@ src="https://img.shields.io/twitter/follow/Code_With_Arif?logo=twitter&style=for
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
 </div>
 
-### MY CONTRIBUTIONS :
-<p align="center">
-  
+<div align="center">
+  <h2>MY CONTRIBUTIONS</h2>
   <a href="https://github.com/Code-With-Arif" align="center">
-    <img style="" src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img
+		 src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+	/>
   </a>
-  
   <a href="https://github.com/Code-With-Arif" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-2005&stroke=ffffff&background=151515&ring=79ff97&fire=79ff97&currStreakNum=ffffff&currStreakLabel=79ff97&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+    <img
+		 src="https://github-readme-streak-stats.herokuapp.com/?user=arif-2005&stroke=ffffff&background=151515&ring=79ff97&fire=79ff97&currStreakNum=ffffff&currStreakLabel=79ff97&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false"
+	/>
   </a>
-  
-</p>
+</div>
