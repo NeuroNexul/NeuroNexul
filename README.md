@@ -79,12 +79,13 @@
   <h2>MY CONTRIBUTIONS</h2>
   <a href="https://github.com/Code-With-Arif" align="center">
     <img
-		 src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+		 src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true"
 	/>
   </a>
   <a href="https://github.com/Code-With-Arif" align="center">
     <img
-		 src="https://github-readme-streak-stats.herokuapp.com/?user=arif-2005&stroke=ffffff&background=151515&ring=79ff97&fire=79ff97&currStreakNum=ffffff&currStreakLabel=79ff97&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false"
+	 alt="readme-streak"
+	src="http://github-readme-streak-stats.herokuapp.com?user=arif-2005&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF"
 	/>
   </a>
 </div>
