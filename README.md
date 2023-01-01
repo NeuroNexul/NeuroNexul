@@ -26,6 +26,10 @@
     </a>
 </p>
 
+<p>
+	Arif Sardar (<a href="https://github.com/arif-2005">@arif-2005</a>): A highly motivated and accomplished high school student with a strong interest in science and technology. I have a passion for software development and have already gained significant experience in web development, Android development, and Arduino projects. In addition to my technical skills, I am also well-versed in electrical work and has a keen interest in scientific research. My dedication and hard work have earned myself recognition by the Government of India, as I have been awarded for my innovation at the National Children's Science Congress. I am always on the lookout for new challenges and opportunities to learn and grow, and excited to continue pursuing my interests in the field of technology and science.
+</p>
+
 <div align="center">
 	<h2>MY TECH STACKS</h2>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
