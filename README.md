@@ -1,4 +1,4 @@
-<img src="https://github.com/Code-With-Arif/Code-With-Arif/blob/main/github_banner.jpg?raw=true" style="width: 100%" />
+<img src="https://res.cloudinary.com/di9pwtpmy/image/upload/v1672628619/profile/cover/github_banner_2_bkhfe9.webp" style="width: 100%" />
 <p align="center">
 	<a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer">
 		<img
