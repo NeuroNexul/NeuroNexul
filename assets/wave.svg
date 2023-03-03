@@ -1,0 +1,74 @@
+<svg
+    class="waves"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 24 150 28"
+    preserveAspectRatio="none"
+    shape-rendering="auto"
+>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+            <stop offset="12.5%" stop-color="#6BE987"></stop>
+            <stop offset="37.5%" stop-color="#3FA8E4"></stop>
+            <stop offset="62.5%" stop-color="#6BE987"></stop>
+            <stop offset="87.5%" stop-color="#3FA8E4"></stop>
+
+            <!-- <stop offset="0%" stop-color="#eb144c"></stop>
+            <stop offset="25%" stop-color="#0693e3"></stop>
+            <stop offset="50%" stop-color="#eb144c"></stop>
+            <stop offset="75%" stop-color="#0693e3"></stop>
+            <stop offset="100%" stop-color="#eb144c"></stop> -->
+        </linearGradient>
+    </defs>
+    <defs>
+        <path id="gentle-wave"
+            d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+    </defs>
+    <g class="parallax">
+        <use xlink:href="#gentle-wave" x="48" y="0" fill="url(#gradient)" fill-opacity="0.20" />
+        <use xlink:href="#gentle-wave" x="48" y="3" fill="url(#gradient)" fill-opacity="0.30" />
+        <use xlink:href="#gentle-wave" x="48" y="5" fill="url(#gradient)" fill-opacity="0.50" />
+        <use xlink:href="#gentle-wave" x="48" y="7" fill="url(#gradient)" fill-opacity="0.70" />
+    </g>
+
+    <style>
+        .waves {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 100px;
+        min-height: 50px;
+        max-height: 100px;
+        border-radius: 25px;
+        opacity: 0.85;
+        }
+        .parallax>use {
+        animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;
+        }
+        .parallax>use:nth-child(1) {
+        animation-delay: -2s;
+        animation-duration: 7s;
+        }
+        .parallax>use:nth-child(2) {
+        animation-delay: -3s;
+        animation-duration: 10s;
+        }
+        .parallax>use:nth-child(3) {
+        animation-delay: -4s;
+        animation-duration: 13s;
+        }
+        .parallax>use:nth-child(4) {
+        animation-delay: -5s;
+        animation-duration: 16s;
+        }
+        @keyframes move-forever {
+        0% {
+        transform: translate3d(-90px, 0, 0);
+        }
+        100% {
+        transform: translate3d(85px, 0, 0);
+        }
+        }
+    </style>
+
+</svg>

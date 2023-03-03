@@ -1,4 +1,19 @@
-<img src="https://res.cloudinary.com/di9pwtpmy/image/upload/v1672628619/profile/cover/github_banner_2_bkhfe9.webp" style="width: 100%" />
+<p align="center">
+	<img
+		src="./assets/title.svg"
+		alt="title"
+		width="300"
+		height="100"
+	/>
+</p>
+
+<img
+	src="./assets/wave.svg"
+	alt="wave"
+	width="100%"
+	height="150"
+/>
+
 <p align="center">
 	<a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer">
 		<img
@@ -27,7 +42,7 @@
 </p>
 
 <p align="justify" style="font-size: 1em">
-	Arif Sardar (<a href="https://github.com/arif-2005">@arif-2005</a>): A highly motivated and accomplished high school student with a strong interest in science and technology. I have a passion for software development and have already gained significant experience in web development, Android development, and Arduino projects. In addition to my technical skills, I am also well-versed in electrical work and has a keen interest in scientific research. My dedication and hard work have earned myself recognition by the Government of India, as I have been awarded for my innovation at the National Children's Science Congress. I am always on the lookout for new challenges and opportunities to learn and grow, and excited to continue pursuing my interests in the field of technology and science.
+	Arif Sardar (<a href="https://github.com/NeuroNexul">@NeuroNexul</a>): A highly motivated and accomplished high school student with a strong interest in science and technology. I have a passion for software development and have already gained significant experience in web development, Android development, and Arduino projects. In addition to my technical skills, I am also well-versed in electrical work and has a keen interest in scientific research. My dedication and hard work have earned myself recognition by the Government of India, as I have been awarded for my innovation at the National Children's Science Congress. I am always on the lookout for new challenges and opportunities to learn and grow, and excited to continue pursuing my interests in the field of technology and science.
 </p>
 
 <div align="center">
@@ -78,35 +93,35 @@
 
 <div align="center">
   	<h2>MY CONTRIBUTIONS</h2>
-  	<a href="https://github.com/arif-2005" align="center">
+  	<a href="https://github.com/NeuroNexul" align="center">
 		<picture>
-  			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true">
-  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=000000&icon_color=79ff97&text_color=616161&bg_color=f6f8fa&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true">
+  			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true">
+  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=000000&icon_color=79ff97&text_color=616161&bg_color=f6f8fa&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true">
     		<img
 				alt=""
-				src="https://github-readme-stats.vercel.app/api/?username=arif-2005&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true"
+				src="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true"
 	 			width="49%"
 			/>
 		</picture>
   	</a>
-  	<a href="https://github.com/arif-2005" align="center">
+  	<a href="https://github.com/NeuroNexul" align="center">
 		<picture>
-  			<source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=arif-2005&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF">
-  			<source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=arif-2005&border_radius=5&mode=weekly&background=f6f8fa&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=000000&border=79FF97&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&dates=000000">
+  			<source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF">
+  			<source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=f6f8fa&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=000000&border=79FF97&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&dates=000000">
     		<img
 				alt="readme-streak"
-				src="http://github-readme-streak-stats.herokuapp.com?user=arif-2005&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF"
+				src="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF"
 	 			width="49%"
 			/>
 		</picture>
   	</a>
-	<a href="https://github.com/arif-2005" align="center">
+	<a href="https://github.com/NeuroNexul" align="center">
 		<picture>
-  			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=arif-2005&bg_color=141414&radius=5&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true">
-  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=arif-2005&bg_color=f6f8fa&radius=5&line=79FF97&point=79FF97&color=000000&area_color=79FF97&area=true&hide_border=true">
+  			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=141414&radius=5&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true">
+  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=f6f8fa&radius=5&line=79FF97&point=79FF97&color=000000&area_color=79FF97&area=true&hide_border=true">
   			<img
 				alt="readme-streak"
-				src="https://github-readme-activity-graph.cyclic.app/graph?username=arif-2005&bg_color=141414&radius=5&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true"
+				src="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=141414&radius=5&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true"
 	 			width="98%"
 			/>
 		</picture>
