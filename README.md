@@ -14,35 +14,41 @@
 	height="150"
 />
 
+<p align="justify" style="font-size: 1.2em">
+	<b>Arif Sardar (<a href="https://github.com/NeuroNexul">@NeuroNexul</a>):</b> A highly motivated and accomplished high school student with a strong interest in science and technology. Passionate for <code>software development</code> and have already gained significant experience in <code>web development</code>, <code>Android development</code>, and <code>Arduino projects</code>. In addition to my technical skills, I am also <code>well-versed in electrical work</code> and has a keen interest in <code>scientific research</code>. My dedication and hard work have earned myself <code>recognition by the Government of India</code>, as I have been awarded for my innovation.
+
+	I am always on the lookout for new challenges and opportunities to learn and grow, and excited to continue pursuing my interests in the field of technology and science.
+</p>
+
 <p align="center">
-	<a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer">
-		<img
-			 alt="twitter"
-			src="https://img.shields.io/twitter/follow/Code_With_Arif?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-		/>
-	</a>
 	<a href="https://www.facebook.com/arifsardar.private" target="_blank" rel="noreferrer">
         <img
             alt="facebook"
-            src="https://img.shields.io/badge/FOLLOW%20ON-FACEBOOK-ON?style=for-the-badge&logo=facebook&logoColor=white&color=3382ed&labelColor=1c1917"
+            src="./assets/fb.svg"
+			width="50"
         />
     </a>
+	<a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer">
+		<img
+			 alt="twitter"
+			src="./assets/tw.svg"
+			width="50"
+		/>
+	</a>
     <a href="https://t.me/CodeWithArif" target="_blank" rel="noreferrer">
         <img
             alt="telegram"
-            src="https://img.shields.io/badge/JOIN-TELEGRAM-ON?style=for-the-badge&logo=telegram&logoColor=white&color=27a7e8&labelColor=1c1917"
+            src="./assets/tl.svg"
+			width="50"
         />
     </a>
     <a href="https://www.linkedin.com/in/arif-sardar-private/" target="_blank" rel="noreferrer">
         <img
             alt="linkedin"
-            src="https://img.shields.io/badge/FOLLOW%20ON-LINKEDIN-ON?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2&labelColor=1c1917"
+            src="./assets/ln.svg"
+			width="50"
         />
     </a>
-</p>
-
-<p align="justify" style="font-size: 1em">
-	Arif Sardar (<a href="https://github.com/NeuroNexul">@NeuroNexul</a>): A highly motivated and accomplished high school student with a strong interest in science and technology. I have a passion for software development and have already gained significant experience in web development, Android development, and Arduino projects. In addition to my technical skills, I am also well-versed in electrical work and has a keen interest in scientific research. My dedication and hard work have earned myself recognition by the Government of India, as I have been awarded for my innovation at the National Children's Science Congress. I am always on the lookout for new challenges and opportunities to learn and grow, and excited to continue pursuing my interests in the field of technology and science.
 </p>
 
 <div align="center">
