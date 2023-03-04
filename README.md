@@ -63,11 +63,11 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 	<br />
   	<a href="https://github.com/NeuroNexul" align="center">
 		<picture>
-  			<source media="(prefers-color-scheme: dark) and (min-height: 600px)" srcset="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true">
-  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=000000&icon_color=79ff97&text_color=616161&bg_color=f6f8fa&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true">
+  			<source media="(prefers-color-scheme: dark) and (min-height: 600px)" srcset="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=ffffff&icon_color=62db9a&text_color=9f9f9f&bg_color=141414&border_color=62db9a&ring_color=62db9a&cache_seconds=7200&include_all_commits=true&count_private=true">
+  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=000000&icon_color=62db9a&text_color=616161&bg_color=f6f8fa&border_color=62db9a&ring_color=62db9a&cache_seconds=7200&include_all_commits=true&count_private=true">
     		<img
 				alt=""
-				src="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true"
+				src="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=ffffff&icon_color=62db9a&text_color=9f9f9f&bg_color=141414&border_color=62db9a&ring_color=62db9a&cache_seconds=7200&include_all_commits=true&count_private=true"
 				max-width="350"
 				height="140"
 			/>
@@ -75,11 +75,11 @@ I am always on the lookout for new challenges and opportunities to learn and gro
   	</a>
   	<a href="https://github.com/NeuroNexul" align="center">
 		<picture>
-  			<source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF">
-  			<source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=f6f8fa&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=000000&border=79FF97&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&dates=000000">
+  			<source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=141414&stroke=62db9a&ring=62db9a&fire=62db9a&sideLabels=FFFFFF&border=62db9a&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF">
+  			<source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=f6f8fa&stroke=62db9a&ring=62db9a&fire=62db9a&sideLabels=000000&border=62db9a&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&dates=000000">
     		<img
 				alt="readme-streak"
-				src="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF"
+				src="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=141414&stroke=62db9a&ring=62db9a&fire=62db9a&sideLabels=FFFFFF&border=62db9a&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF"
 				max-width="350"
 				height="140"
 			/>
@@ -87,11 +87,11 @@ I am always on the lookout for new challenges and opportunities to learn and gro
   	</a>
 	<a href="https://github.com/NeuroNexul" align="center">
 		<picture>
-  			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=141414&radius=10&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true">
-  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=f6f8fa&radius=10&line=79FF97&point=79FF97&color=000000&area_color=79FF97&area=true&hide_border=true">
+  			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=141414&radius=10&line=62db9a&point=62db9a&color=FFFFFF&area_color=62db9a&area=true&hide_border=true">
+  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=f6f8fa&radius=10&line=62db9a&point=62db9a&color=000000&area_color=62db9a&area=true&hide_border=true">
   			<img
 				alt="readme-streak"
-				src="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=141414&radius=10&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true"
+				src="https://github-readme-activity-graph.cyclic.app/graph?username=NeuroNexul&bg_color=141414&radius=10&line=62db9a&point=62db9a&color=FFFFFF&area_color=62db9a&area=true&hide_border=true"
 	 			width="100%"
 			/>
 		</picture>
