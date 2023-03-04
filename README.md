@@ -68,6 +68,8 @@ I am always on the lookout for new challenges and opportunities to learn and gro
     		<img
 				alt=""
 				src="https://github-readme-stats.vercel.app/api/?username=NeuroNexul&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414&border_color=79FF97&ring_color=79FF97&cache_seconds=7200&include_all_commits=true&count_private=true"
+				max-width="350"
+				height="140"
 			/>
 		</picture>
   	</a>
@@ -78,6 +80,8 @@ I am always on the lookout for new challenges and opportunities to learn and gro
     		<img
 				alt="readme-streak"
 				src="http://github-readme-streak-stats.herokuapp.com?user=NeuroNexul&border_radius=5&mode=weekly&background=141414&stroke=79FF97&ring=79FF97&fire=79FF97&sideLabels=FFFFFF&border=79FF97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF"
+				max-width="350"
+				height="140"
 			/>
 		</picture>
   	</a>
