@@ -53,22 +53,22 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 
 <div align="center">
 	<h2>MY TECH STACKS</h2>
-	<img height="50" src="./assets/social/1.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/2.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/3.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/4.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/5.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/6.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/7.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/8.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/9.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/10.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/11.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/12.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/13.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/14.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/15.svg" alt="HTML" title="HTML" />
-	<img height="50" src="./assets/social/16.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/1.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/2.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/3.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/4.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/5.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/6.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/7.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/8.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/9.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/10.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/11.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/12.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/13.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/14.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/15.svg" alt="HTML" title="HTML" />
+	<img height="60" src="./assets/social/16.svg" alt="HTML" title="HTML" />
 </div>
 
 <div align="center">
