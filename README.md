@@ -58,7 +58,7 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 	<img height="60" src="./assets/social/16.svg" alt="HTML" title="HTML" />
 </div>
 
-<div align="center">
+<!-- div align="center">
   	<img height="80" width="360" src="./assets/title3.svg" />
 	<br />
   	<a href="https://github.com/NeuroNexul" align="center">
@@ -96,4 +96,4 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 			/>
 		</picture>
   	</a>
-</div>
+</div-->
