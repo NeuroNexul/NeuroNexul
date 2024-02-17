@@ -18,7 +18,7 @@
 	<a href="https://www.facebook.com/arifsardar.private" target="_blank" rel="noreferrer">
         <img alt="facebook" src="./assets/fb.svg" width="70" height="50" />
     </a>
-	<a href="https://www.twitter.com/Code_With_Arif" target="_blank" rel="noreferrer">
+	<a href="https://www.twitter.com/NeuroNexul" target="_blank" rel="noreferrer">
 		<img alt="twitter" src="./assets/tw.svg" width="70" height="50" />
 	</a>
     <a href="https://t.me/CodeWithArif" target="_blank" rel="noreferrer">
