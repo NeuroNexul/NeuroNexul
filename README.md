@@ -58,6 +58,10 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 	<img height="60" src="./assets/social/16.svg" alt="HTML" title="HTML" />
 </div>
 
+<div align="center">
+	<img src="https://devcard.pullpo.io/api?user_id=cnq5h24165ec73c4a23g&custom_title=NeuroNexul%20%40%20My%20Team&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&ring_color=C3D1D9&bg_color=0D1117&image_url=https%3A%2F%2Fres.cloudinary.com%2Fdjoo8ogmp%2Fimage%2Fupload%2Fr_350%2Cb_transparent%2Fv1704147032%2Fuploaded%2Fme_pvex7c.png" alt="DevCard" title="DevCard" />
+</div>
+
 <!-- div align="center">
   	<img height="80" width="360" src="./assets/title3.svg" />
 	<br />
